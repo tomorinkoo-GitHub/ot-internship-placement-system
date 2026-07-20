@@ -1,0 +1,5 @@
+# GAS / Node / エディタ関連
+.clasp.json
+node_modules/
+.DS_Store
+*.log
